@@ -1,4 +1,4 @@
-# Ristretto Theme for Omarchy
+# Solarized Light Theme for Omarchy
 A Solarized-light inspired theme for DHH's [Omarchy](https://omarchy.org), an opinioned Arch Linux setup.
 
 ## Preview
