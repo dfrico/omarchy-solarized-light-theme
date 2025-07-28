@@ -1,5 +1,5 @@
 # Solarized Light Theme for Omarchy
-A Solarized-light inspired theme for DHH's [Omarchy](https://omarchy.org), an opinioned Arch Linux setup.
+A [Solarized](https://ethanschoonover.com/solarized/) light inspired theme for DHH's [Omarchy](https://omarchy.org), an opinioned Arch Linux setup.
 
 ## Preview
 <img width="4096" height="2304" alt="image" src="https://github.com/user-attachments/assets/bcc29b73-62f6-4dd6-935b-05ca39985994" />
